@@ -2,6 +2,13 @@
     /* border: 1px solid rgb(227, 227, 248); */
     font-family: 'Montserrat', sans-serif;
 }
+.logo{
+    height: 25px;
+}
+.icon{
+    height: 20px;
+     width: 20px;
+}
 .placards{
     height: 200px;
     background-image: url('../images/stay_fit.jpg');
